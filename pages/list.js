@@ -60,7 +60,7 @@ const MyList = () => {
             )}
           />
         </Col>
-        <Col className="comm-right" xs={0} sm={0} md={7} lg={4} lx={4}>
+        <Col className="comm-right" xs={0} sm={0} md={7} lg={4} lx={3}>
           <Author />
           <Advert />
         </Col>
